@@ -1,0 +1,15 @@
+/Users/Ananyareddy/Downloads/dotnet-sdk-7.0.100-osx-x64/WebAPIClient/bin/Debug/net7.0/WebAPIClient
+/Users/Ananyareddy/Downloads/dotnet-sdk-7.0.100-osx-x64/WebAPIClient/bin/Debug/net7.0/WebAPIClient.deps.json
+/Users/Ananyareddy/Downloads/dotnet-sdk-7.0.100-osx-x64/WebAPIClient/bin/Debug/net7.0/WebAPIClient.runtimeconfig.json
+/Users/Ananyareddy/Downloads/dotnet-sdk-7.0.100-osx-x64/WebAPIClient/bin/Debug/net7.0/WebAPIClient.dll
+/Users/Ananyareddy/Downloads/dotnet-sdk-7.0.100-osx-x64/WebAPIClient/bin/Debug/net7.0/WebAPIClient.pdb
+/Users/Ananyareddy/Downloads/dotnet-sdk-7.0.100-osx-x64/WebAPIClient/obj/Debug/net7.0/WebAPIClient.csproj.AssemblyReference.cache
+/Users/Ananyareddy/Downloads/dotnet-sdk-7.0.100-osx-x64/WebAPIClient/obj/Debug/net7.0/WebAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ananyareddy/Downloads/dotnet-sdk-7.0.100-osx-x64/WebAPIClient/obj/Debug/net7.0/WebAPIClient.AssemblyInfoInputs.cache
+/Users/Ananyareddy/Downloads/dotnet-sdk-7.0.100-osx-x64/WebAPIClient/obj/Debug/net7.0/WebAPIClient.AssemblyInfo.cs
+/Users/Ananyareddy/Downloads/dotnet-sdk-7.0.100-osx-x64/WebAPIClient/obj/Debug/net7.0/WebAPIClient.csproj.CoreCompileInputs.cache
+/Users/Ananyareddy/Downloads/dotnet-sdk-7.0.100-osx-x64/WebAPIClient/obj/Debug/net7.0/WebAPIClient.dll
+/Users/Ananyareddy/Downloads/dotnet-sdk-7.0.100-osx-x64/WebAPIClient/obj/Debug/net7.0/refint/WebAPIClient.dll
+/Users/Ananyareddy/Downloads/dotnet-sdk-7.0.100-osx-x64/WebAPIClient/obj/Debug/net7.0/WebAPIClient.pdb
+/Users/Ananyareddy/Downloads/dotnet-sdk-7.0.100-osx-x64/WebAPIClient/obj/Debug/net7.0/WebAPIClient.genruntimeconfig.cache
+/Users/Ananyareddy/Downloads/dotnet-sdk-7.0.100-osx-x64/WebAPIClient/obj/Debug/net7.0/ref/WebAPIClient.dll
